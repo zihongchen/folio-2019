@@ -17,7 +17,9 @@ export default class Application
 {
     /**
      * Constructor
-     */
+     * _options is an object
+     */ 
+
     constructor(_options)
     {
         // Options
